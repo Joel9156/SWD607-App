@@ -10,4 +10,16 @@
     <ApplicationVersion>1</ApplicationVersion>
     <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
   </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Resources\layout\AddEdit Reservation Screen.xml" />
+    <None Remove="Resources\layout\Contact Screen.xml" />
+    <None Remove="Resources\layout\Food Description Screen.xml" />
+    <None Remove="Resources\layout\Menu.xml" />
+    <None Remove="Resources\layout\Order Detail Screen.xml" />
+    <None Remove="Resources\layout\Payment Option and Rating Screen.xml" />
+    <None Remove="Resources\layout\Profile Screen.xml" />
+    <None Remove="Resources\layout\Reservations List Screen.xml" />
+    <None Remove="Resources\layout\Sign In Screen.xml" />
+    <None Remove="Resources\layout\Sign Up Screen.xml" />
+  </ItemGroup>
 </Project>
